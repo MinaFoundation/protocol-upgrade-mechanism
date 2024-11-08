@@ -1,2 +1,5 @@
 # protocol-upgrade-mechanism
-Creating a process to upgrade the protocol in an automated manner
+
+The prurpose of this repository is to create a mechanism for automatically performing updates of the Mina protocol (hard forks).
+
+Currently, we are collecting requirements in the form of issues. There is also discussion happening at [MinaResearch](https://forums.minaprotocol.com/t/automated-protocol-upgrade-mechanism/6662). In the future, we will add design documents, and ultimately also code.
